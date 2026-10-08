@@ -1,2 +1,4 @@
 name:prerana
 usn:43
+branch:data science
+semester:3rd
